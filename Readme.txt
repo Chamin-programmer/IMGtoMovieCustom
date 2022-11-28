@@ -1,17 +1,17 @@
-���̃V�F�[�_�[�t�@�C����MIT���C�Z���X�ɂ̂��Ƃ��āA�z�^�e�̊L�k�����IMGtoMOVIE�V�F�[�_�[�Ɏ�����������̂ł��B
-�{�l�Ɏg�p�������������Ă�����J���Ă��܂��B
-�]���̂��̂���VRChat���ŃI�[�f�B�I�\�[�X�Ɠ������Ƃ�Ȃ������̂œ���̍Đ��������A�j���[�V�����t�@�C���ł������悤�Ɏ�������܂����B
+このシェーダーファイルはMITライセンスにのっとって、ホタテの貝殻さんのIMGtoMOVIEシェーダーに手を加えたものです。
+本人に使用許可をいただいてから公開しています。
+従来のものだとVRChat内でオーディオソースと同期がとれなかったので動画の再生部分をアニメーションファイルでいじれるように手を加えました。
 
 
 [IMGtoMOVIECustom]
-�@Texture:���C���̃e�N�X�`���ł��B������1�R�}�����ׂ��悤�ȉ摜���w�肵�Ă��������B
-�A����:���R�}�����w�肵�Ă��������B
-�B����:���R�}���ɑ΂��č������ڂɂ��邩�̎w�W�ł��B30FPS�̏ꍇ�A��b�Ԃ�30�t���[���i�݂܂��̂ŃA�j���[�V�����̉�ʂň�b���Ƃ�30�������悤�ɐݒ肵�Ă���Ă��������B
+①Texture:メインのテクスチャです。横長に1コマずつ並べたような画像を指定してください。
+②枚数:総コマ数を指定してください。
+③毎目:総コマ数に対して今何枚目にいるかの指標です。30FPSの場合、一秒間に30フレーム進みますのでアニメーションの画面で一秒ごとに30枚流れるように設定してやってください。
 
 
 * by,HhotateA
 * Customized by Chamin
 * Released under the MIT license
-* Twitter :HHOTATEA_VRC, Chamin_VRC
+* Twitter:　HHOTATEA_VRC, Chamin_VRC
 *
 * Date: 2022-06-08
